@@ -1,0 +1,6 @@
+Claudiu;Motoc;Falkenstrasse 3, 85757 Karlsfeld;claudiu.motoc@gmail.com;2134587961
+Cristina;Motoc;Falkenstrasse 78, Karlsfeld;cristina.motoc@yahoo.com;2342342347
+Alexandra;Tone;Erlenweg 3, Munich;alexandra.tone@yahoo.com;2467854712
+Alina;Coman;Bundtstrasse 5a, Berlin;alina.coman@gmail.com;2342342347
+Alexia;Coman;Bundtstrasse 5a, Berlin;alexia@yahoo.com;1246578921
+Cornelia;Tone;Blumenstrasse 8, Karlsfeld;cornelia.tone@yahoo.com;1354796785
